@@ -1,6 +1,6 @@
 # vue-project
 
-Welcome to my frontend register-login project built with Vue.js! My application utilizes OAuth2 authentication for secure login, ensuring your data remains protected. Upon successful authentication, users are stored in a MySQL database and directed to a dynamic products page where they can seamlessly perform CRUD (Create, Read, Update, Delete) operations.
+Welcome to my frontend register-login project built with Vue.js! My application utilizes OAuth2 authentication for secure login, ensuring your data remains protected. Upon successful authentication, users are stored in a MySQL database and directed to a dynamic products page where they can seamlessly perform CRUD (Create, Read, Update, Delete) operations. Also I used the library Element-Plus for the templates.
 
 Powered by Vue.js, my frontend interface provides a sleek and intuitive user experience. With its reactive components and efficient state management, users can navigate effortlessly through the application, making interactions smooth and enjoyable.
 
